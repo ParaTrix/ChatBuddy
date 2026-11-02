@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ChatBuddyApp/ChatBuddyApp.vcxproj" Id="29e44265-29e9-4c42-bbc3-a19a8f2fdd01" />
+  <Project Path="ChatBuddyCore/ChatBuddyCore.vcxproj" Id="d6866452-cc72-413d-8a34-44e6d19c3771" />
+  <Project Path="GenerativeAI/GenerativeAI.vcxproj" Id="8a4b77c4-d1b7-482d-a57b-41279d49b6db" />
+  <Project Path="IM/IM.vcxproj" Id="83b0c71a-4335-4989-b1a2-237de1e1e47e" />
+</Solution>
